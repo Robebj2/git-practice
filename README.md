@@ -1,8 +1,10 @@
 # git-practice
 
 ## Subheading
-Paragraph
 
-- Markdown is easy
-- its just some extra charicters
-- these get turned into formatting later on
+This is a paragraph of text.
+
+- markdown is easy
+- it's just some extra characters
+- These get turned into formatting later on
+
